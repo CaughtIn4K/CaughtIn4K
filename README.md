@@ -1,4 +1,4 @@
-##About Me##
+## About Me ##
 
 <p align="center">solar, 4ixty, Reject, 4Mir, peak</p>
   
