@@ -2,15 +2,15 @@
   
 <p align="center">solar, 4ixty, Reject, 4Mir, peak</p>
   
-![](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue) 
+![](https://komarev.com/ghpvc/?username=caughtin4k&style=plastic&color=blue) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue) 
 </p>
 
 ## Stats ##
-[![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>
+[![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caughtin4k&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retributions&langs_count=8&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/retributions/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caughtin4k&langs_count=8&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/retributions/github-readme-stats) <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight)](https://github.com/retributions-ma/github-profile-trophy) <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=caughtin4k&theme=tokyonight)](https://github.com/retributions-ma/github-profile-trophy) <br>
 
 <h2 align="left">Reach Out To Me</h2>
 <p align="left">
