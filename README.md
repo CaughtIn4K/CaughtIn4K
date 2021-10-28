@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caughtin4k&langs_count=8&layout=compact&theme=vue-dark&show_icons=true)](https://github.com/retributions/github-readme-stats) <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=caughtin4k&theme=vue-dark)](https://github.com/retributions-ma/github-profile-trophy) <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=caughtin4k&theme=dark)](https://github.com/retributions-ma/github-profile-trophy) <br>
 
 <h2 align="left">Reach Out To Me</h2>
 <p align="left">
