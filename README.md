@@ -1,5 +1,5 @@
-<p align="center"><img width="480" height="270" src="https://cdn.discordapp.com/attachments/816128594908676136/903083928192180276/solar_laroi.gif"</p>
-  
+##About Me##
+
 <p align="center">solar, 4ixty, Reject, 4Mir, peak</p>
   
 ![](https://komarev.com/ghpvc/?username=caughtin4k&style=plastic&color=blue) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue) 
