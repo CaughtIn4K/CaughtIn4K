@@ -1,6 +1,4 @@
 ## About Me ##
-
-<a href="https://github.com/retributions" target="_blank"><img src="https://github.com/rdimo/rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
   
 ![](https://komarev.com/ghpvc/?username=caughtin4k&style=plastic&color=green) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=green) 
 </p>
@@ -19,8 +17,7 @@
 <a href="https://discord.com/user/799447765263319049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile" height="30" width="40" /></a>
 </p>
 
-
-
+<a href="https://github.com/retributions" target="_blank"><img src="https://github.com/rdimo/rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 
 
