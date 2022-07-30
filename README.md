@@ -1,6 +1,7 @@
 ## About Me ##
 
-<p align="center">solar, 4ixty, Reject, 4Mir, peak</p> <p align="center">https://github.com/retributions</p>
+<a href="https://github.com/retributions" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/991247763587211264.png"/></a>
+<a href="https://github.com/retributions" target="_blank"><img src="https://github.com/caughtin4k/caughtin4k/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
   
 ![](https://komarev.com/ghpvc/?username=caughtin4k&style=plastic&color=green) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=green) 
 </p>
